@@ -1,0 +1,5 @@
+{
+    "java.configuration.updateBuildConfiguration": "disabled",
+    "workbench.settings.editor": "json",
+    "editor.codeActionsOnSave": {"source.fixAll": false}
+}
